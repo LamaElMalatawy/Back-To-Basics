@@ -6,7 +6,7 @@ This repository contains essential topics for Java development from A to Z
 
 1. [10 Principles of Clean Code](https://github.com/LamaElMalatawy/Back-To-Basics/tree/main/Clean%20Code)
 2. [JDBC (Java Database Connectivity)](https://github.com/LamaElMalatawy/Back-To-Basics/tree/main/JDBC)  
-3. [Java Streams](#3-java-streams)
+3. [Java Streams](https://github.com/LamaElMalatawy/Back-To-Basics/tree/main/Streams)
 
 ---
 
